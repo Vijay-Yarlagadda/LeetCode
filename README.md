@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0078-subsets) |
 | [0189-rotate-array](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0189-rotate-array) |
 | [0525-contiguous-array](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0525-contiguous-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0037-sudoku-solver) |
 | [0525-contiguous-array](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0525-contiguous-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
@@ -60,4 +63,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
