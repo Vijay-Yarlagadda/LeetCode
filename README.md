@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0189-rotate-array) |
 | [0525-contiguous-array](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0713-subarray-product-less-than-k](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Math
 |  |
@@ -41,12 +43,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0525-contiguous-array) |
+| [0713-subarray-product-less-than-k](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
