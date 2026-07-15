@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Search
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0525-contiguous-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
 |  |
@@ -100,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Counting
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
