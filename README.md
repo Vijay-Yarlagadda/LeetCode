@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Search
