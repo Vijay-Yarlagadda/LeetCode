@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [1768-merge-strings-alternately](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0451-sort-characters-by-frequency](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1768-merge-strings-alternately](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Number Theory
 |  |
 | ------- |
