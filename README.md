@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0078-subsets) |
 | [0189-rotate-array](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0189-rotate-array) |
 | [0303-range-sum-query-immutable](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0334-increasing-triplet-subsequence](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0525-contiguous-array](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0525-contiguous-array) |
 | [0605-can-place-flowers](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -158,5 +159,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
