@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0525-contiguous-array](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0525-contiguous-array) |
 | [0605-can-place-flowers](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0037-sudoku-solver) |
 | [0219-contains-duplicate-ii](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0525-contiguous-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
@@ -150,20 +152,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Dynamic Programming
 |  |
@@ -189,4 +195,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0605-can-place-flowers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
