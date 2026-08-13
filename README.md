@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0735-asteroid-collision](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0735-asteroid-collision) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0735-asteroid-collision](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
 |  |
@@ -208,5 +210,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/Vijay-Yarlagadda/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
